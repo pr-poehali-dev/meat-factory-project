@@ -59,7 +59,7 @@ const Index = () => {
             </div>
             <div className="relative">
               <img 
-                src="/img/d5c21150-a19f-4080-a991-b4450d513566.jpg" 
+                src="/img/8124323c-770a-458f-93b8-cf442f6c8c25.jpg" 
                 alt="Экологически чистая ферма" 
                 className="rounded-2xl shadow-2xl w-full h-auto"
               />
